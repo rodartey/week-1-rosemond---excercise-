@@ -1,3 +1,3 @@
 # week-1-rosemond---excercise-
-Person 1 was here 
+week 1 project edited by person 1
 Person 2 was here
